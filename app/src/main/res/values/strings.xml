@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieCatalogSubmission3</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv">TV Show</string>
+    <string name="fail_load">Load Data Failed</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="add_favorite">Add To Favorite</string>
+    <string name="remove_favorite">Remove From Favorite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="empty_list">Data Is Empty</string>
+    <string name="search_movie">Search movie..</string>
+    <string name="search_tv">Search tv show..</string>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalogSubmission3</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv">Serial TV</string>
+    <string name="fail_load">Gagal Memuat Data</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="add_favorite">Ditambahkan Ke Favorit</string>
+    <string name="remove_favorite">Dihapus Dari Favorit</string>
+    <string name="empty_list">Data Masih Kosong</string>
+    <string name="search_movie">Cari movie..</string>
+    <string name="search_tv">Cari serial tv..</string>
+
+</resources>
